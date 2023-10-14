@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sümeyra!</h1>
-<h3 align="center">A passionate Full-Stack Engineer from Turkiye</h3>
+<h3 align="center">A passionate Software Engineer from Turkiye</h3>
+
+https://medium.com/@sumeyraacikel
 
 - 🌱 I’m currently learning **Kotlin**
 
